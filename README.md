@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/edovqL/edovqL/master/assets/text-name-v2.gif" alt="Alpredo Pandiangan" />
 </h1>
 
-## Hey! 👋
+## Hola! 👋
 
 I'm **Alpredo Pandiangan**, a passionate web developer and lifelong learner from Indonesia 🇮🇩
 
