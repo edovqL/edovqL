@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/edovqL/master/assets/text-name-v2.gif" alt="Alpredo Pandiangan" />
 </h1>
 
-
 ## Hey! 👋
+
 I'm **Alpredo Pandiangan**, a passionate web developer and lifelong learner from Indonesia 🇮🇩
 
 - 🦔 Founder of Parsiajar
@@ -12,18 +12,19 @@ I'm **Alpredo Pandiangan**, a passionate web developer and lifelong learner from
 
 - 🤝 Actively collaborating on open-source and community-driven projects
 
-+ a lot more ;)
-
+* a lot more ;)
 
 ## Skills
+
 - 👨‍💻 JavaScript, TypeScript, PHP, Go, etc...
 - ⚙️ React, Vue, Svelte
 - 👁️ SASS, CSS, Framer Motion
 - 💽 PostgreSQL, Mongo, Supabase
-+ a lot more :D
 
+* a lot more :D
 
 ## Contact
+
 - 🌐 [alpredovandy.app](https://alpredovandy.vercel.app)
 - 💼 [LinkedIn](https://linkedin.com/in/alpredovandy)
 - 💬 Discord: `alpredovandy`
