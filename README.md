@@ -1,29 +1,29 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/edovqL/master/text-name.gif" alt="Alpredo Pandiangan" />
+  <img src="https://raw.githubusercontent.com/edovqL/master/assets/text-name-v2.gif" alt="Alpredo Pandiangan" />
 </h1>
 
 
-## Hey! 👋  
+## Hey! 👋
 I'm **Alpredo Pandiangan**, a passionate web developer and lifelong learner from Indonesia 🇮🇩
 
 - 🦔 Founder of Parsiajar
 
 - 🚀 Focused on crafting seamless web platforms that solve real-world problems
-  
-- 🤝 Actively collaborating on open-source and community-driven projects 
+
+- 🤝 Actively collaborating on open-source and community-driven projects
 
 + a lot more ;)
 
 
 ## Skills
 - 👨‍💻 JavaScript, TypeScript, PHP, Go, etc...
-- ⚙️ React, Vue, Svelte 
+- ⚙️ React, Vue, Svelte
 - 👁️ SASS, CSS, Framer Motion
 - 💽 PostgreSQL, Mongo, Supabase
 + a lot more :D
 
 
-## Contact  
-- 🌐 [alpredovandy.app](https://alpredovandy.vercel.app) 
-- 💼 [LinkedIn](https://linkedin.com/in/alpredovandy)  
+## Contact
+- 🌐 [alpredovandy.app](https://alpredovandy.vercel.app)
+- 💼 [LinkedIn](https://linkedin.com/in/alpredovandy)
 - 💬 Discord: `alpredovandy`
