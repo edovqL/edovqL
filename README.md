@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://your-link.com/alpredo-name.svg" alt="Alpredo Pandiangan" />
+  <img src="https://raw.githubusercontent.com/edovqL/master/text-name.gif" alt="Alpredo Pandiangan" />
 </h1>
+
 
 ## Hey! 👋  
 I'm **Alpredo Pandiangan**, a passionate web developer and lifelong learner from Indonesia 🇮🇩
