@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/edovqL/master/text-name.gif" alt="Alpredo Pandiangan" />
+  <img src="https://raw.githubusercontent.com/edovqL/edovqL/master/text-name.gif" alt="Alpredo Pandiangan" />
 </h1>
 
 
