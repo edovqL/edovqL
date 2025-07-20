@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://your-link.com/alpredo-name.svg" alt="Alpredo Pandiangan" />
+</h1>
 
-<!--
-**edovqL/edovqL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋  
+I'm **Alpredo Pandiangan**, a passionate web developer and lifelong learner from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+- 🦔 Founder of Parsiajar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Focused on crafting seamless web platforms that solve real-world problems
+  
+- 🤝 Actively collaborating on open-source and community-driven projects 
+
++ a lot more ;)
+
+
+## Skills
+- 👨‍💻 JavaScript, TypeScript, PHP, Go, etc...
+- ⚙️ React, Vue, Svelte 
+- 👁️ SASS, CSS, Framer Motion
+- 💽 PostgreSQL, Mongo, Supabase
++ a lot more :D
+
+
+## Contact  
+- 🌐 [alpredovandy.app](https://alpredovandy.vercel.app) 
+- 💼 [LinkedIn](https://linkedin.com/in/alpredovandy)  
+- 💬 Discord: `alpredovandy`
