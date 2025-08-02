@@ -23,6 +23,6 @@ I'm **Alpredo Pandiangan**, a passionate web developer and lifelong learner from
 
 ## Contact
 
-- 🌐 [alpredovandy.app](https://alpredovandy.vercel.app)
+- 🌐 [alpredovandy.dev](https://alpredovandy.dev)
 - 💼 [LinkedIn](https://linkedin.com/in/alpredovandy)
 - 💬 Discord: `alpredovandy`
