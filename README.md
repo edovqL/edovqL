@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/edovqL/edovqL/master/assets/text-name-v2.gif" alt="Alpredo Pandiangan" />
-</h1>
+![](https://raw.githubusercontent.com/edovqL/edovqL/master/assets/dot-header.png)
 
 ## Hola! 👋
 
