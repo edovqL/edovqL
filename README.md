@@ -4,7 +4,7 @@
 
 I'm **Alpredo Pandiangan**, a passionate web developer and lifelong learner from Indonesia 🇮🇩
 
-- 🦔 Founder of Parsiajar
+- 🦔 Information Technology Specialist at Parsiajar
 
 - 🚀 Focused on crafting seamless web platforms that solve real-world problems
 
